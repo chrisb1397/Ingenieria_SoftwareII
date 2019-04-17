@@ -5,3 +5,4 @@ juanita uno
 pepito dos
 juanita dos
 seno
+coseno
