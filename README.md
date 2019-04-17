@@ -7,3 +7,4 @@ juanita dos
 seno
 Restar negativos
 coseno
+Multiplicar negativos
