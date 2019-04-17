@@ -4,4 +4,6 @@ pepito uno
 juanita uno
 pepito dos
 juanita dos
+seno
 Restar negativos
+coseno
